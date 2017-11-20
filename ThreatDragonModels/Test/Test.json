@@ -4,7 +4,11 @@
     "owner": "Boris"
   },
   "detail": {
-    "contributors": [],
+    "contributors": [
+      {
+        "name": "Boris"
+      }
+    ],
     "diagrams": [
       {
         "title": "Application",
